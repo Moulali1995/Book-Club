@@ -1,0 +1,10 @@
+TYPEORM_HOST = localhost
+TYPEORM_USERNAME = postgres
+TYPEORM_PASSWORD = postgres
+TYPEORM_DATABASE = book_club
+TYPEORM_PORT = 5432
+
+
+# JWT 
+SECRET_KEY = polkmnhytrfvcxzaqwsxcfgbnjk&ko9876thjnm$qwqdwd?<>+_)(*)
+JWT_EXPIRESIN = 30m
